@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yoshi/SCANDIA_ROBOTICS/scandia_ws/install/champ_msgs/include/**",
+        "/home/yoshi/SCANDIA_ROBOTICS/scandia_ws/install/champ/include/**",
+        "/home/yoshi/Gabriel/champ_ws/install/champ_msgs/include/**",
+        "/home/yoshi/Gabriel/champ_ws/install/champ/include/**",
+        "/home/yoshi/Gabriel/spot_ws/install/spot_driver/include/**",
+        "/home/yoshi/Gabriel/spot_ws/install/spot_msgs/include/**",
+        "/home/yoshi/Gabriel/spot_ws/install/proto2ros/include/**",
+        "/home/yoshi/Gabriel/my_workspace/install/my_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/yoshi/SCANDIA_ROBOTICS/scandia_ws/src/champ/champ/include/**",
+        "/home/yoshi/SCANDIA_ROBOTICS/scandia_ws/src/champ/champ_base/include/**",
+        "/home/yoshi/SCANDIA_ROBOTICS/scandia_ws/src/champ/champ_config/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
